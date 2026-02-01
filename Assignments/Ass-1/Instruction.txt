@@ -1,0 +1,8 @@
+cd Assignments
+py -3.11 -m venv venv3081 
+
+venv3081\Scripts\activate
+
+pip install -r (the path of the requirements.txt file)
+cd "Ass - 1"
+python runner.py
